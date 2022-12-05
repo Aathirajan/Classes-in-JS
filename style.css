@@ -1,0 +1,59 @@
+.total{
+   
+    margin-left: 350px;
+    width: 500px;
+    height: 400px;
+}
+.greet{
+   
+    margin-left: 400px;
+    
+    margin-top: 50px;
+}
+.balance{
+   
+    margin-left: 400px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.depositDiv{
+    
+    margin:25px 25px 25px 5px;
+}
+.withdrawlDiv{
+    
+    margin:25px 25px 25px 5px;
+}
+.depositinput{
+    
+    width:200px;
+    height:25px;
+    
+}
+.withdrawlinput{
+   
+    width:200px;
+    height:25px;
+}
+.depositbtn{
+    
+    width:75px;
+    padding:8px;
+    border-radius: 6px;
+    border: 5px;
+   background-color: #ffbd03;
+}
+.depositbtn:hover{
+    cursor:pointer;
+}
+.withdrawlbtn{
+    
+    width:75px;
+    padding:8px;
+    border-radius: 6px;
+    border: 5px;
+   background-color: #ffbd03;
+}
+.withdrawlbtn:hover{
+    cursor:pointer;
+}
